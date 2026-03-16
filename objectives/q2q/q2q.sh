@@ -23,6 +23,7 @@
 # Galaxy Fold 3 5G config
 CODENAME="q2q"
 PLATFORM="sm8350"
+DEVICE_VNDK_VERSION=31
 
 # Stock firmware details for download
 STOCK_MODEL="SM-F926B"
